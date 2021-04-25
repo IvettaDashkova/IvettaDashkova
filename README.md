@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Ivetta </h1>
 <h2 align="left"> and I'm a hard working full stack  developer. In my profile you can get acquainted with my projects. CONNECT WITH ME:
-  <a href="https://instagram.com/ivettavalery" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ivettavalery" height="30" width="30"/></a>         <a href="mailto:ivettafsd@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="30"/></a>
+  <a href="https://instagram.com/ivettavalery" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ivettavalery" height="30" width="30"/></a>         <a href="mailto:ivettadashkovafsd@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="30"/></a>
 </h2> 
 
 <h3 align="left">TECH STACK:</h3>
