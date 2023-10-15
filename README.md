@@ -14,6 +14,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"  width="40" height="40"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/> </a> 
+<p></p>
 <a href="https://parceljs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg" alt="parsel" width="40" height="40"/> </a>  
 <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
 <a href="https://webpack.js.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="webpack"  width="40" height="40"/> </a>
