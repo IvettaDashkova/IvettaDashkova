@@ -12,7 +12,6 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://global-uploads.webflow.com/628e6648a47e6727d5c69a2a/62f120f634f46f92d05298c6_MongoDB_Logo.svg.png" alt="mongo db" width="40" height="40"/></a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" alt="react native" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format" alt="next.js" width="40" height="40"/></a>
- 
 <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"  width="40" height="40"/> </a>
