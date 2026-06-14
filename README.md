@@ -70,5 +70,5 @@ I enjoy solving complex product and engineering challenges, from offline-first a
 
 ## 📫 Connect with Me
 
-* LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/ivettadashkova/)
+* LinkedIn: [https://linkedin.com/in/ivettadashkova](https://www.linkedin.com/in/ivettadashkova/)
 * Email: [ivettadashkovafsd@gmail.com](mailto:ivettadashkovafsd@gmail.com)
